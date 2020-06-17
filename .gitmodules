@@ -1,0 +1,4 @@
+[submodule "test3"]
+	path = test3
+	url = https://github.com/syamphaneendra/test3.git
+	branch = master
